@@ -1,0 +1,16 @@
+version: '3.7'
+
+services:
+  regression:
+    build:
+      context: .
+      dockerfile: Dockerfile
+
+    image: pytest:v1
+    volumes:
+      - ./:/usr/workspace
+    command: /bin/sh -c "pytest -sv --alluredir=allure-results"
+    working_dir: /usr/workspace
+    environment:
+      - LOGIN=${LOGIN}
+      - PASSWORD=${PASSWORD}
