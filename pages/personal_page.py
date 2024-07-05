@@ -1,4 +1,5 @@
 import allure
+import time
 from base.base_page import BasePage
 from config.links import Links
 from fields.personal_page_fields import PersonalPageFields as Fields
@@ -11,7 +12,7 @@ class PersonalPage(BasePage):
     PAGE_URL = Links.PERSONAL_PAGE
     def change_name(self, name):
         with allure.step(f"Change name to {name}"):
-
+            time.sleep(1)
             first_name_field = self.wait.until(EC.element_to_be_clickable(Fields.FIRST_NAME_FIELD))
             first_name_field.send_keys(Keys.CONTROL + "a")
             first_name_field.send_keys(Keys.BACKSPACE)
@@ -19,7 +20,7 @@ class PersonalPage(BasePage):
 
     def change_middle_name(self, middle_name):
         with allure.step(f"Change middle name to {middle_name}"):
-
+            time.sleep(1)
             middle_name_field = self.wait.until(EC.element_to_be_clickable(Fields.MIDDLE_NAME_FIELD))
             middle_name_field.send_keys(Keys.CONTROL + "a")
             middle_name_field.send_keys(Keys.BACKSPACE)
@@ -27,7 +28,7 @@ class PersonalPage(BasePage):
     
     def change_last_name(self, last_name):
         with allure.step(f"Change last name to {last_name}"):
-
+            time.sleep(1)
             last_name_field = self.wait.until(EC.element_to_be_clickable(Fields.LAST_NAME_FIELD))
             last_name_field.send_keys(Keys.CONTROL + "a")
             last_name_field.send_keys(Keys.BACKSPACE)
