@@ -1,10 +1,100 @@
 [ {
-  "uid" : "48f0d1e332885fd",
-  "name" : "Change profile name",
+  "uid" : "becd9301bdf714c7",
+  "name" : "Change profile gender",
   "time" : {
-    "start" : 1720106534951,
-    "stop" : 1720106545736,
-    "duration" : 10785
+    "start" : 1720172190096,
+    "stop" : 1720172200455,
+    "duration" : 10359
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "93ed69d7f01b4a60",
+  "name" : "Change profile date of birth",
+  "time" : {
+    "start" : 1720172179499,
+    "stop" : 1720172189787,
+    "duration" : 10288
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "df98c99e085a239d",
+  "name" : "Change profile employee id",
+  "time" : {
+    "start" : 1720172125849,
+    "stop" : 1720172136291,
+    "duration" : 10442
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ca8bab12e89e194b",
+  "name" : "Change profile marital status",
+  "time" : {
+    "start" : 1720172168781,
+    "stop" : 1720172179189,
+    "duration" : 10408
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "217d116a0a263c16",
+  "name" : "Change profile license id",
+  "time" : {
+    "start" : 1720172136600,
+    "stop" : 1720172147225,
+    "duration" : 10625
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "73beff98e62999d9",
+  "name" : "Change profile license expiry date",
+  "time" : {
+    "start" : 1720172147533,
+    "stop" : 1720172158073,
+    "duration" : 10540
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7650064718bc5767",
+  "name" : "Change profile last name",
+  "time" : {
+    "start" : 1720172115208,
+    "stop" : 1720172125541,
+    "duration" : 10333
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "113848531cae708b",
+  "name" : "Change profile middle name",
+  "time" : {
+    "start" : 1720172103965,
+    "stop" : 1720172114893,
+    "duration" : 10928
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "14f71f150253ab35",
+  "name" : "Change profile nationality",
+  "time" : {
+    "start" : 1720172158379,
+    "stop" : 1720172168474,
+    "duration" : 10095
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "95a3dcc1f4b078b0",
+  "name" : "Change profile first name",
+  "time" : {
+    "start" : 1720172093253,
+    "stop" : 1720172103626,
+    "duration" : 10373
   },
   "status" : "passed",
   "severity" : "normal"
