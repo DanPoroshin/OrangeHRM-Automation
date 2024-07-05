@@ -4,130 +4,130 @@
     "name" : "Profile",
     "children" : [ {
       "name" : "Change profile first name",
-      "uid" : "95a3dcc1f4b078b0",
+      "uid" : "2ef17d418a3ccfbf",
       "parentUid" : "d7f9de5a628df3841073fad21edb5903",
       "status" : "passed",
       "time" : {
-        "start" : 1720172093253,
-        "stop" : 1720172103626,
-        "duration" : 10373
+        "start" : 1720173073097,
+        "stop" : 1720173084509,
+        "duration" : 11412
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "Change profile middle name",
-      "uid" : "113848531cae708b",
+      "uid" : "a9d4b9a988243753",
       "parentUid" : "d7f9de5a628df3841073fad21edb5903",
       "status" : "passed",
       "time" : {
-        "start" : 1720172103965,
-        "stop" : 1720172114893,
-        "duration" : 10928
+        "start" : 1720173084851,
+        "stop" : 1720173096192,
+        "duration" : 11341
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "Change profile last name",
-      "uid" : "7650064718bc5767",
+      "uid" : "7aa498f7e630086b",
       "parentUid" : "d7f9de5a628df3841073fad21edb5903",
       "status" : "passed",
       "time" : {
-        "start" : 1720172115208,
-        "stop" : 1720172125541,
-        "duration" : 10333
+        "start" : 1720173096509,
+        "stop" : 1720173107876,
+        "duration" : 11367
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "Change profile employee id",
-      "uid" : "df98c99e085a239d",
+      "uid" : "ea2ea6b1c75745",
       "parentUid" : "d7f9de5a628df3841073fad21edb5903",
       "status" : "passed",
       "time" : {
-        "start" : 1720172125849,
-        "stop" : 1720172136291,
-        "duration" : 10442
+        "start" : 1720173108190,
+        "stop" : 1720173119242,
+        "duration" : 11052
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "Change profile license id",
-      "uid" : "217d116a0a263c16",
+      "uid" : "b114624540d3f2dd",
       "parentUid" : "d7f9de5a628df3841073fad21edb5903",
       "status" : "passed",
       "time" : {
-        "start" : 1720172136600,
-        "stop" : 1720172147225,
-        "duration" : 10625
+        "start" : 1720173119558,
+        "stop" : 1720173131226,
+        "duration" : 11668
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "Change profile license expiry date",
-      "uid" : "73beff98e62999d9",
+      "uid" : "699500469a2e922",
       "parentUid" : "d7f9de5a628df3841073fad21edb5903",
       "status" : "passed",
       "time" : {
-        "start" : 1720172147533,
-        "stop" : 1720172158073,
-        "duration" : 10540
+        "start" : 1720173131542,
+        "stop" : 1720173142924,
+        "duration" : 11382
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "Change profile nationality",
-      "uid" : "14f71f150253ab35",
+      "uid" : "3d0e8761492ad107",
       "parentUid" : "d7f9de5a628df3841073fad21edb5903",
       "status" : "passed",
       "time" : {
-        "start" : 1720172158379,
-        "stop" : 1720172168474,
-        "duration" : 10095
+        "start" : 1720173143241,
+        "stop" : 1720173154324,
+        "duration" : 11083
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "Change profile marital status",
-      "uid" : "ca8bab12e89e194b",
+      "uid" : "146f316db0e5f618",
       "parentUid" : "d7f9de5a628df3841073fad21edb5903",
       "status" : "passed",
       "time" : {
-        "start" : 1720172168781,
-        "stop" : 1720172179189,
-        "duration" : 10408
+        "start" : 1720173154643,
+        "stop" : 1720173167223,
+        "duration" : 12580
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "Change profile date of birth",
-      "uid" : "93ed69d7f01b4a60",
+      "uid" : "3316550898a8fb5d",
       "parentUid" : "d7f9de5a628df3841073fad21edb5903",
       "status" : "passed",
       "time" : {
-        "start" : 1720172179499,
-        "stop" : 1720172189787,
-        "duration" : 10288
+        "start" : 1720173167544,
+        "stop" : 1720173179005,
+        "duration" : 11461
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "Change profile gender",
-      "uid" : "becd9301bdf714c7",
+      "uid" : "622b5980046fd4e7",
       "parentUid" : "d7f9de5a628df3841073fad21edb5903",
       "status" : "passed",
       "time" : {
-        "start" : 1720172190096,
-        "stop" : 1720172200455,
-        "duration" : 10359
+        "start" : 1720173179322,
+        "stop" : 1720173192070,
+        "duration" : 12748
       },
       "flaky" : false,
       "newFailed" : false,
